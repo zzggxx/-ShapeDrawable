@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring">
+
+    <!--莫名其妙的使用方法-->
+
+    <stroke
+        android:width="10px"
+        android:color="@color/colorAccent"
+        android:dashGap="20px"
+        android:dashWidth="20px" />
+
+</shape>
